@@ -176,6 +176,8 @@ The **GitHub release** has always **six files**:
 
 1. Test the JARs if they are working and if the documentation is correct, esp. JavaDoc references to ODF elements, attributes and units have been created correctly by our JavaDoc taglet project.
 
+test
+
 2. If all project artefacts have been created without an error, they can be bundled into ZIPs and signed via:
 
     ```shell
